@@ -27,21 +27,21 @@ staxel.village.dialogue.Barkeep.line:10000500=Vois ça comme notre manière de s
 //[Reference] 'I hope to see you around here every now and again.'
 staxel.village.dialogue.Barkeep.line:10000600=J'espère que tu repassera ici de temps en temps.
 //TODO Translate [Reference] 'By the way... and perhaps this might seem like an odd question but...'
-staxel.village.dialogue.Barkeep.line:10000610=
+staxel.village.dialogue.Barkeep.line:10000610=Soit dit en passant... et peut-être que cela pourrait sembler une question étrange, mais...
 //TODO Translate [Reference] 'Is there a particular type of animal you like?'
-staxel.village.dialogue.Barkeep.line:10000620=
+staxel.village.dialogue.Barkeep.line:10000620=Y at-il un type particulier d'animal que tu aimes?
 //TODO Translate [Reference] 'Cats are super cute!'
-staxel.village.dialogue.Barkeep.line:10000630=
+staxel.village.dialogue.Barkeep.line:10000630=Les chats sont super mignon!
 //TODO Translate [Reference] 'Dogs are the coolest!'
-staxel.village.dialogue.Barkeep.line:10000640=
+staxel.village.dialogue.Barkeep.line:10000640=Les chiens sont les plus cool!
 //TODO Translate [Reference] 'Oh! How lucky for you!'
-staxel.village.dialogue.Barkeep.line:10000650=
+staxel.village.dialogue.Barkeep.line:10000650=Oh ! Quelle chance tu as !
 //TODO Translate [Reference] 'A merchant came by the other day whose aunt's friend's sister's son had a litter!'
-staxel.village.dialogue.Barkeep.line:10000660=
+staxel.village.dialogue.Barkeep.line:10000660=Un marchand est venu l'autre jour, dont le fils de la sœur d'une amie de la tante avait une portée!
 //TODO Translate [Reference] 'If you come back once you're done with {0-tut_name} I might just have one for you!'
-staxel.village.dialogue.Barkeep.line:10000670=
+staxel.village.dialogue.Barkeep.line:10000670=Si tu reviens une fois que tu auras terminé avec {0-tut_name}, je pourrais en avoir un pour toi!
 //TODO Translate [Reference] 'Good luck!'
-staxel.village.dialogue.Barkeep.line:10000680=
+staxel.village.dialogue.Barkeep.line:10000680=Bonne chance!
 //[Reference] 'Hope to see you around!'
 staxel.village.dialogue.Barkeep.line:10002600=J'espère te revoir bientôt!
 //[Reference] 'Hmm... doesn't look like there's much going on right now.'
@@ -70,15 +70,15 @@ staxel.village.dialogue.Barkeep.line:10003900=Hmm... il semble que tu ne peux pa
 //[Reference] 'Come back when you have some cash!'
 staxel.village.dialogue.Barkeep.line:10004000=Reviens quand tu auras de l'argent !
 //TODO Translate [Reference] 'Good day {0-playername}!'
-staxel.village.dialogue.Barkeep.line:10005000=
+staxel.village.dialogue.Barkeep.line:10005000=Bonjour {0-playername}!
 //TODO Translate [Reference] 'Is that a note for me?'
-staxel.village.dialogue.Barkeep.line:10005100=
+staxel.village.dialogue.Barkeep.line:10005100=Est-ce une note pour moi?
 //TODO Translate [Reference] 'Hmm... so {0-tut_name} sent you to fetch her some more sap eh?'
-staxel.village.dialogue.Barkeep.line:10005200=
+staxel.village.dialogue.Barkeep.line:10005200=Hmm... alors {0-tut_name} t'a envoyé pour lui chercher un peu plus de sève?
 //TODO Translate [Reference] 'She drinks far too much of the stuff...'
-staxel.village.dialogue.Barkeep.line:10005300=
+staxel.village.dialogue.Barkeep.line:10005300=Elle boit trop de choses...
 //TODO Translate [Reference] 'Hmm...'
-staxel.village.dialogue.Barkeep.line:10005400=
+staxel.village.dialogue.Barkeep.line:10005400=Hmm...
 //TODO Translate [Reference] 'Tell you what, run a little errand for me and I'll see what I can do.'
 staxel.village.dialogue.Barkeep.line:10005500=
 //TODO Translate [Reference] 'Nothing major or anything...'
@@ -130,6 +130,6 @@ staxel.village.dialogue.Barkeep.line:10007800=
 //TODO Translate [Reference] 'It usually gets a bit livelier in the evenings so that might be a nice time to stop by!'
 staxel.village.dialogue.Barkeep.line:10007900=
 //TODO Translate [Reference] 'You probably shouldn't stay out too late though!'
-staxel.village.dialogue.Barkeep.line:10008000=
+staxel.village.dialogue.Barkeep.line:10008000=Tu ne devrais probablement pas rester trop tard!
 //TODO Translate [Reference] 'It's good to get back to your bed and sleep the night away.'
-staxel.village.dialogue.Barkeep.line:10008100=
+staxel.village.dialogue.Barkeep.line:10008100=Il serait bon de revenir à ton lit et de dormir toute la nuit.
